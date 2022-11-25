@@ -2,8 +2,8 @@
 date created: 
 date modified: 
 tags : []
-software : []
-author : ["LUX14Zx"]
+language: 
+author : []
 ---
 
 # How I made GeekNerdNote website
