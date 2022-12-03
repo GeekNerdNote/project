@@ -24,3 +24,4 @@ author : []
 - MathJax 3
 - Pdf.js
 - electron.js / tauri
+- RemarkJS
